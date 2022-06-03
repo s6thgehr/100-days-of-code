@@ -5,9 +5,21 @@
 **Goal:** I want to become a software developer. I want to work on cool projects that are able to change the world. 
 
 
-### Day 1: June 27, Monday
+### Day 1: June 1, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Palindrome Checker project.
+
+**Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
+
+### Day 2: June 2, Thurday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Roman Numeral Converter project.
+
+**Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
+
+### Day 3: June 3, Friday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Caesars Cipher project.
 
 **Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
 
