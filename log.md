@@ -23,6 +23,16 @@
 
 **Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
 
+### Day 4: June 4, Saturday
+
+**Today's Progress**: I finished all JavaScript projects and earned the certificate.
+
+**Thoughts** Learning JavaScript is not that hard and getting the certificate was not that difficult. But the telephone number validator project was really annoying.
+
+### Day 5: June 5, Sunday
+
+**Today's Progress**: I learned about the DOM.
+
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
