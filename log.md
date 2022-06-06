@@ -33,6 +33,15 @@
 
 **Today's Progress**: I learned about the DOM.
 
+### Day 6: June 6, Monday
+
+**Today's Progress**: I finished a simple website. This was a challenge from Angela Yu's Web Dev Bootcamp.
+
+**Thoughts** The project was very simple, but it also made fun. 
+
+**Link(s) to work**
+[Drum Kit](https://github.com/s6thgehr/drum-kit)
+
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
