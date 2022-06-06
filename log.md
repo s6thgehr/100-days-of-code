@@ -9,37 +9,42 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Palindrome Checker project.
 
-**Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
+**Thoughts**: Learning JavaScript is not that hard and the project was not that difficult.
+
 
 ### Day 2: June 2, Thurday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Roman Numeral Converter project.
 
-**Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
+**Thoughts**: Learning JavaScript is not that hard and the project was not that difficult.
+
 
 ### Day 3: June 3, Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp about regular expressions and solved the Caesars Cipher project.
 
-**Thoughts** Learning JavaScript is not that hard and the project was not that difficult.
+**Thoughts**: Learning JavaScript is not that hard and the project was not that difficult.
+
 
 ### Day 4: June 4, Saturday
 
 **Today's Progress**: I finished all JavaScript projects and earned the certificate.
 
-**Thoughts** Learning JavaScript is not that hard and getting the certificate was not that difficult. But the telephone number validator project was really annoying.
+**Thoughts**: Learning JavaScript is not that hard and getting the certificate was not that difficult. But the telephone number validator project was really annoying.
+
 
 ### Day 5: June 5, Sunday
 
 **Today's Progress**: I learned about the DOM.
 
+
 ### Day 6: June 6, Monday
 
 **Today's Progress**: I finished a simple website. This was a challenge from Angela Yu's Web Dev Bootcamp.
 
-**Thoughts** The project was very simple, but it also made fun. 
+**Thoughts**: The project was very simple, but it also made fun. 
 
-**Link(s) to work**
+**Link(s) to work**:
 [Drum Kit](https://github.com/s6thgehr/drum-kit)
 
 <!--
