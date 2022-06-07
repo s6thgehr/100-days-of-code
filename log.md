@@ -47,6 +47,17 @@
 **Link(s) to work**:
 [Drum Kit](https://github.com/s6thgehr/drum-kit)
 
+
+
+### Day 7: June 7, Tuesday
+
+**Today's Progress**: I learned about nodejs and express and how to programm the backend.
+
+**Thoughts**: This is quite new to me and I think I have to go through it again. 
+
+**Link(s) to work**:
+[Node and Express](https://boilerplate-express.thomasgehrmann.repl.co)
+
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
