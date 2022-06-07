@@ -51,9 +51,9 @@
 
 ### Day 7: June 7, Tuesday
 
-**Today's Progress**: I learned about nodejs and express and how to programm the backend.
+**Today's Progress**: I learned about nodejs and express and how to programm the backend. I also created a website with jQuery where one can play Simon Says.
 
-**Thoughts**: This is quite new to me and I think I have to go through it again. 
+**Thoughts**: Nodejs and Express are quite new to me and I think I have to go through it again. 
 
 **Link(s) to work**:
 [Node and Express](https://boilerplate-express.thomasgehrmann.repl.co)
