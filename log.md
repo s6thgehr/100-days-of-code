@@ -58,6 +58,14 @@
 **Link(s) to work**:
 [Node and Express](https://boilerplate-express.thomasgehrmann.repl.co)
 
+
+### Day 8: June 8, Wednesday
+
+**Today's Progress**: I learned more about nodejs and express and how to programm the backend. I also started learning React.
+
+**Thoughts**: I just started with React but I think I like it.
+
+
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
