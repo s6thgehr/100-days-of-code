@@ -66,6 +66,13 @@
 **Thoughts**: I just started with React but I think I like it.
 
 
+### Day 9: June 9, Thursday
+
+**Today's Progress**: I learned more about React. About stateless and stateful components.
+
+**Thoughts**: React seems to be a cool framework.
+
+
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
